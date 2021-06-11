@@ -1,0 +1,163 @@
+
+#tab_grid {
+    width: 495px;
+    height:495px;
+    border: 5px solid #999;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding:1px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #999;
+    box-shadow: 0px 0px 20px white;
+}
+
+.clks{
+    height: 95px;
+    width: 95px;
+    font-size: 0.1px;
+}
+
+#p11{
+    background-image: url('p11.jpg');
+}
+
+#p12{
+    background-image: url('p12.jpg') 
+}
+
+#p13{
+    background-image: url('p13.jpg') 
+}
+
+#p14{
+    background-image: url('p14.jpg') 
+}
+
+#p15{
+    background-image: url('p15.jpg') 
+}
+
+#p21{
+    background-image: url('p21.jpg') 
+}
+
+#p22{
+    background-image: url('p22.jpg') 
+}
+
+#p23{
+    background-image: url('p23.jpg') 
+}
+
+#p24{
+    background-image: url('p24.jpg') 
+}
+
+#p25{
+    background-image: url('p25.jpg') 
+}
+
+#p31{
+    background-image: url('p31.jpg') 
+}
+
+#p32{
+    background-image: url('p32.jpg') 
+}
+
+#p33{
+    background-image: url('p33.jpg') 
+}
+
+#p34{
+    background-image: url('p34.jpg') 
+}
+
+#p35{
+    background-image: url('p35.jpg') 
+}
+
+#p41{
+    background-image: url('p41.jpg') 
+}
+
+#p42{
+    background-image: url('p42.jpg') 
+}
+
+#p43{
+    background-image: url('p43.jpg') 
+}
+
+#p44{
+    background-image: url('p44.jpg') 
+}
+
+#p45{
+    background-image: url('p45.jpg') 
+}
+
+#p51{
+    background-image: url('p51.jpg') 
+}
+
+#p52{
+    background-image: url('p52.jpg') 
+}
+
+#p53{
+    background-image: url('p53.jpg') 
+}
+
+#p54{
+    background-image: url('p54.jpg') 
+}
+
+#p55{
+    background-image: url('p55.jpg') 
+}
+
+
+
+
+#launch {
+    width: 170px;
+    margin: auto;
+    margin-top:50px;
+    border:2px solid #999;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top:5px;
+    color: black;
+    background-color: cornflowerblue;
+    box-shadow: 0px 0px 10px #FFF;
+    text-shadow: 0px 0px 5px #000;
+    cursor: pointer;
+    font-family: 'Arial';
+    font-size: 25px;
+}
+#launch:hover {
+    color:#BA6F00;
+    text-shadow: 0px 0px 10px #BA6F00 ;
+
+}
+#moves{
+    width: 233px;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid #999;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    color: #000;
+    background-color: rgb(97, 225, 248);
+    box-shadow: 0px 0px 10px #FFF;
+    text-shadow: 0px 0px 5px #000;
+    font-family: 'Arial';
+    font-size: 25px;
+}
+
